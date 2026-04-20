@@ -1,4 +1,8 @@
 ## 🚀 How to Run
+# 🔐 Phishing URL Detector
+
+AI-powered web application that detects phishing URLs using machine learning.
+
 
 1. Clone the repository:
 https://github.com/m00elsayed/phishing-detector.git ✔
