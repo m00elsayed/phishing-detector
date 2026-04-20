@@ -1,8 +1,7 @@
 ## 🚀 How to Run
 
 1. Clone the repository:
-git clone https://github.com/USERNAME/phishing-detector.git
-
+https://github.com/m00elsayed/phishing-detector.git ✔
 2. Install dependencies:
 pip install -r requirements.txt
 
